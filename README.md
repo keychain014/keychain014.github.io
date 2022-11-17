@@ -1,9 +1,10 @@
-### Welcome to *keychain014.github.io*
+### Welcome to Kirsten's Personal Space!
 ---
-Hobbies:
-- studying
-- listening to music
-- watching kdramas
-- eating sundae with fries
+>Hello! I am Kirsten Cyrah D. Lumibao. I am currently in Grade 9 and I am studying at Ateneo de Naga Junior High School. This is a task for the purpose of my Computer Class!
 
-![alt text](https://www.thespruceeats.com/thmb/3QatTcsVjKeDVCD-rIeUa4fSRAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/perfect-banana-split-recipe-305712-hero-01-ef0482a539394da0b5ba64ade0c73b98.jpg)
+**Christmas is coming!**
+
+My Christmas Wishlist
+- money
+- sneakers
+- books
