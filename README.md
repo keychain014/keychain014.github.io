@@ -6,8 +6,14 @@
 
 
  ### **SOCIAL MEDIA ACCOUNTS**
+ 
 [`facebook`](https://www.facebook.com/kirstencyrah.lumibao.9)
 [`instagram`](https://www.instagram.com/kirstencyrah_/)
 [`twitter`](https://twitter.com/cheesecake8_)
 
-
+### **FAVORITES**
+### Color : `purple`
+### Dessert : `sundae with fries`
+### Book Genre : `romance`
+### Number : `03`
+### Subject : `math and science`
