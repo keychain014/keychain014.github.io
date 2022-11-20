@@ -36,7 +36,7 @@
 
 ---
 
-## Things that are dear to my heart! :heart: 
+## Things that are dear to my heart!
 - school materials!😊
 - my pillow💘
 - mother dearest 👧
