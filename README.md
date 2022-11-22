@@ -19,6 +19,7 @@
 ### Book Genre : `romance`
 ### Number : `03`
 ### Subject : `math and science`
+### Band : 'Ben & Ben'
 
 ---
 
@@ -27,12 +28,27 @@
 - money 💸
 - chuck taylor converse floral 👟
 - books 📖
-- siya po /j 🖤
 
 ---
 
 ## Playlist!🎤
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3oT18Ew47jq0iDQhWfzNFI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## TOP 5 FAVORITE MUSIC
+1. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9tLglpFAyIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4qjAyb4lNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v27At9bBb6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+4.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HxwokFPIguU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+5.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B4HD6aC4Wos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -42,6 +58,5 @@
 - mother dearest 👧
 - father feather 👦
 - circle of friends rn 💝
-- siya po ulit /j lng ser 😗
 
 ---
